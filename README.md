@@ -1,7 +1,7 @@
 ### Oii!! Bem vindo, me chamo Lucius 👋
 
 <div>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucius-Brandhuber&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=LuigiGF&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
 </div>
 <br>
 
