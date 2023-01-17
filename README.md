@@ -1,8 +1,5 @@
-### Oii!! Bem vindo, me chamo Lucius 👋
+### Oii!! Bem vindo, me chamo Lucius e sou um intusiasta em desevolvimento Web👋
 
-<div>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucius-Brandhuber&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-</div>
 <br>
 
 <div  align="center"> 
